@@ -1,0 +1,4 @@
+﻿  Player.cpp
+C:\Users\Ruslan\source\repos\sfmltest\sfmltest\Player.cpp(56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ruslan\source\repos\sfmltest\sfmltest\Player.cpp(57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  sfmltest.vcxproj -> C:\Users\Ruslan\source\repos\sfmltest\x64\Debug\sfmltest.exe
